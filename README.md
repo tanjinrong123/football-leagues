@@ -19,7 +19,7 @@
 
 ## src截图 
  登录界面</br>
-![image](https://github.com/tanjinrong123/football-leagues/raw/master/src/assets/Screenshot/Login.jpg)
+![image](https://github.com/tanjinrong123/football-leagues/raw/master/src/assets/Screenshot/Login.JPG)
 主页</br>
 ![image](https://github.com/tanjinrong123/football-leagues/raw/master/src/assets/Screenshot/Home.jpg)
 联赛界面</br>
