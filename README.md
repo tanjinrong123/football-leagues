@@ -19,15 +19,15 @@
 
 ## src截图 
  登录界面</br>
-![images](https://github.com/tanjinrong123/football-leagues/raw/master/src/assets/Screenshot/Login.jpg)
+![image](https://github.com/tanjinrong123/football-leagues/raw/master/src/assets/Screenshot/Login.jpg)
 主页</br>
-![](https://github.com/tanjinrong123/football-leagues/raw/master/src/assets/Screenshot/Home.jpg)
+![image](https://github.com/tanjinrong123/football-leagues/raw/master/src/assets/Screenshot/Home.jpg)
 联赛界面</br>
-![](https://github.com/tanjinrong123/football-leagues/raw/master/src/assets/Screenshot/League.jpg)
+![image](https://github.com/tanjinrong123/football-leagues/raw/master/src/assets/Screenshot/League.jpg)
 俱乐部界面</br>
-![](https://github.com/tanjinrong123/football-leagues/raw/master/src/assets/Screenshot/Club.jpg)
+![image](https://github.com/tanjinrong123/football-leagues/raw/master/src/assets/Screenshot/Club.jpg)
 球员界面</br>
-![](https://github.com/tanjinrong123/football-leagues/raw/master/src/assets/Screenshot/Player.jpg)
+![image](https://github.com/tanjinrong123/football-leagues/raw/master/src/assets/Screenshot/Player.jpg)
 
 ## 项目运行 ##
 # serve with hot reload at localhost:8888
